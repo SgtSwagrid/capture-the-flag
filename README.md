@@ -1,2 +1,2 @@
 # mc-ctf
-Minecraft Forge Capture the Flag Mod
+Minecraft Forge Capture the Flag Mod.
