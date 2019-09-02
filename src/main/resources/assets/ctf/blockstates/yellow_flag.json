@@ -1,0 +1,11 @@
+{
+	"forge_marker": 1,
+	"variants": {
+		"normal": {
+			"model": "ctf:flag",
+			"textures": {
+				"flag": "minecraft:blocks/wool_colored_yellow"
+			}
+		}
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"pole": "minecraft:blocks/planks_spruce",
+		"particle": "minecraft:blocks/planks_spruce"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to":   [9, 32, 9],
+			"faces": {
+				"down":  {"texture": "#pole", "uv": [0, 0, 2, 2]},
+				"up":	 {"texture": "#pole", "uv": [0, 0, 2, 2]},
+				"north": {"texture": "#pole", "uv": [0, 0, 2, 16]},
+				"south": {"texture": "#pole", "uv": [0, 0, 2, 16]},
+				"west":  {"texture": "#pole", "uv": [0, 0, 2, 16]},
+				"east":  {"texture": "#pole", "uv": [0, 0, 2, 16]}
+			}
+		},
+		{
+			"from": [7, 22, 9],
+			"to":   [9, 31, 22],
+			"faces": {
+				"down":  {"texture": "#flag", "uv": [0, 0, 2, 13]},
+				"up":	 {"texture": "#flag", "uv": [0, 0, 2, 13]},
+				"north": {"texture": "#flag", "uv": [0, 0, 2, 9]},
+				"south": {"texture": "#flag", "uv": [0, 0, 2, 9]},
+				"west":  {"texture": "#flag", "uv": [0, 0, 13, 9]},
+				"east":  {"texture": "#flag", "uv": [0, 0, 13, 9]}
+			}
+		}
+	]
+}

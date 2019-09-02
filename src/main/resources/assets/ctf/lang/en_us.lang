@@ -1,0 +1,17 @@
+#Blocks
+tile.white_flag.name=White Flag
+tile.orange_flag.name=Orange Flag
+tile.magenta_flag.name=Magenta Flag
+tile.light_blue_flag.name=Light Blue Flag
+tile.yellow_flag.name=Yellow Flag
+tile.lime_flag.name=Lime Flag
+tile.pink_flag.name=Pink Flag
+tile.gray_flag.name=Gray Flag
+tile.light_gray_flag.name=Light Gray Flag
+tile.cyan_flag.name=Cyan Flag
+tile.purple_flag.name=Purple Flag
+tile.blue_flag.name=Blue Flag
+tile.brown_flag.name=Brown Flag
+tile.green_flag.name=Green Flag
+tile.red_flag.name=Red Flag
+tile.black_flag.name=Black Flag
